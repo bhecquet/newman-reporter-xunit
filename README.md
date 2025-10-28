@@ -1,3 +1,5 @@
+**I don't maintain this plugin anymore as we've moved to Bruno**
+
 # newman-reporter-xunit
 JUnit reporter for [Newman](https://github.com/postmanlabs/newman) that provides the information about the collection run in JUnit format.
 This needs to be used in [conjunction with Newman](https://github.com/postmanlabs/newman#external-reporters) so that it can recognize JUnit reporting options.
